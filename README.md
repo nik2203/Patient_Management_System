@@ -1,4 +1,3 @@
-# Alarm Clock
-An alarm clock that will play a random YouTube video, from a list of videos curated by the user, at a specified time.
+#Patient Management Database
 
-It offers the user a choice of category of videos to play after entering a time.
+A databse for hospital management with tables for patients, staff and medicine for prescriptions with a front end built in Django.
