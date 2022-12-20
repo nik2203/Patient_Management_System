@@ -1,3 +1,3 @@
-#Patient Management Database
+# Patient Management System
 
-A databse for hospital management with tables for patients, staff and medicine for prescriptions with a front end built in Django.
+### A patient management system, written in Python using MySQL as a database.
